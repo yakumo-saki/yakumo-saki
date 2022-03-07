@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm backend engineer.
+- 💬 I'm backend engineer in Tokyo.
+- 🌱 I’m currently learning Golang.
+- 👀 I’m interested in the Rust maybe next learning.
+
+[![https://wakatime.com/@yakumo](https://wakatime.com/badge/user/79cbfbd2-1023-4e4f-9c34-8f33fcd99d17.svg)](https://wakatime.com/@yakumo)
 
 <!--
 **yakumo-saki/yakumo-saki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
