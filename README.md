@@ -32,29 +32,3 @@ Here are some ideas to get you started:
     Keyboard: RealForce
     Mouse: M510
     Smartphone: Xperia XZ1
-
-
-  <!-- Like のバッジ -->
-  <a href="https://zenn.dev/yakumo">
-    <img src="https://zenn.badge.nikaera.com/s/yakumo/likes?style=flat" alt="yakumo likes" />
-  </a>
-
-  <!-- Articles のバッジ -->
-  <a href="https://zenn.dev/yakumo/articles">
-    <img src="https://zenn.badge.nikaera.com/s/yakumo/articles?style=flat" alt="yakumo articles" />
-  </a>
-
-  <!-- Followers のバッジ -->
-  <a href="https://zenn.dev/yakumo/followers">
-    <img src="https://zenn.badge.nikaera.com/s/yakumo/followers?style=flat" alt="yakumo followers" />
-  </a>
-
-  <!-- Books のバッジ -->
-  <a href="https://zenn.dev/yakumo/books">
-    <img src="https://zenn.badge.nikaera.com/s/yakumo/books?style=flat" alt="yakumo books" />
-  </a>
-
-  <!-- Scraps のバッジ -->
-  <a href="https://zenn.dev/yakumo/scraps">
-    <img src="https://zenn.badge.nikaera.com/s/yakumo/scraps?style=flat" alt="yakumo scraps" />
-  </a>
