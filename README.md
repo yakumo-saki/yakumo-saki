@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     Shell: fish
     Terminal: Konsole
     OS: ArchLinux (KDE Plasma)
-    PC: Self Built
+    PC: ThinkPad L390
     Keyboard: RealForce
     Mouse: M510
     Smartphone: Xperia XZ1
