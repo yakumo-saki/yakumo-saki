@@ -2,7 +2,7 @@
 
 - 💬 I'm backend engineer in Tokyo.
 - 🌱 I’m currently learning Golang.
-- 👀 I’m interested in Dart,Flutter,Rust.
+- 👀 I’m interested in Rust, kotlin.
 
 [![https://wakatime.com/@yakumo](https://wakatime.com/badge/user/79cbfbd2-1023-4e4f-9c34-8f33fcd99d17.svg)](https://wakatime.com/@yakumo)
 
