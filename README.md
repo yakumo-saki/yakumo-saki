@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 
 ## Development Environment
 
-    Favorite Languages: Golang, Java
+    Favorite Languages: Golang, Python, Java
     Editor: Visual Studio Code
     Shell: fish
-    Terminal: Konsole
-    OS: ArchLinux (KDE Plasma)
-    PC: ThinkPad L390
-    Keyboard: RealForce
+    Terminal: iTerm2
+    OS: macOS
+    PC: iMac 27
+    Keyboard: Majestouch (US)
     Mouse: M510
     Smartphone: Xperia XZ1
