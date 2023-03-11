@@ -11,12 +11,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate
+    permissions:
+      contents: write
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+          UTC_OFFSET: 9
         with:
           USERNAME: ${{ github.repository_owner }}
 
