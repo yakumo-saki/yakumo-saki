@@ -1,0 +1,17 @@
+name: LAPRAS-Cards
+
+on:
+  create:
+  push:
+  schedule: # execute 04:14JST. cron is UTC
+    - cron: "14 19 * * *"
+  workflow_dispatch:
+
+jobs:
+  lapras-card:
+    name: LAPRAS Card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kawamataryo/lapras-card-readme@main
+        with:
+          SHARE_ID: "yakumo"
