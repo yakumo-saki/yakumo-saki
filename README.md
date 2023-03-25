@@ -1,3 +1,7 @@
+## 日本語レジュメ
+
+[職務経歴書はこちら](resume.md)
+
 ### Hi there 👋
 
 - 💬 I'm backend engineer in Tokyo.
