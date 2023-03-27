@@ -11,8 +11,8 @@
 [![https://wakatime.com/@yakumo](https://wakatime.com/badge/user/79cbfbd2-1023-4e4f-9c34-8f33fcd99d17.svg)](https://wakatime.com/@yakumo)
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/yakumo" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.66&b=3.48&i=2.96&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 3/26/2023, 7:16:51 PM
+<a href="https://lapras.com/public/yakumo" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.67&b=3.48&i=2.98&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 3/27/2023, 7:17:20 PM
 <!--END_SECTION:lapras-card-->
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakumo-saki&theme=prussian&utcOffset=9)
