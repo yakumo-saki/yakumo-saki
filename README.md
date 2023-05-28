@@ -12,7 +12,7 @@
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/yakumo" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.66&b=3.48&i=2.99&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 5/27/2023, 7:15:48 PM
+Last Updated on 5/28/2023, 7:15:54 PM
 <!--END_SECTION:lapras-card-->
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakumo-saki&theme=prussian&utcOffset=9)
