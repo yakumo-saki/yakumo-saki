@@ -12,7 +12,7 @@
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/yakumo" target="_blank" rel="noopener noreferrer"><img alt="yakumoのLAPRASでのスコアは次の通りです: エンジニアリング: 3.6 / 5.0, ビジネス: 3.57 / 5.0, インフルエンス: 3 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.6&b=3.57&i=3&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 5/13/2024, 7:17:13 PM</p>
+Last Updated on 5/14/2024, 7:17:07 PM</p>
 <!--END_SECTION:lapras-card-->
 
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakumo-saki&theme=prussian&utcOffset=9)
